@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hi this is a test. Testing commits.. a new text is added
-=======
-hi this is a test. We are changinh the same line.
->>>>>>> parent of f5794f3... Revert "add new info"
